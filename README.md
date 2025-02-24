@@ -1,6 +1,6 @@
 # Jump_Jump_Bouncing_Ball
 ## 概要
-ジャンプアクションゲームです。
+物理演算ライブラリPymunkを使ったジャンプアクションゲームです。
 全てのアイテム（■）を取るまでのタイムを競います。
 ## Web版URL
 https://gomatama5.github.io/Jump_Jump_Bouncing_Ball/jjbb.html
