@@ -29,3 +29,6 @@ https://chatgpt.com/share/67b8e799-36d8-8005-aae0-c3ef1941a296
 また、元々はジャンプできない障害物もあったのですが、それを入れると流石にクリアが難しすぎたので、削除しました。
 ## Hints / ゲームのヒント
 ジャンプボタンを押すタイミングが非常に重要です。
+## Libraries / 使用したライブラリ
+[Pyxel](https://github.com/kitao/pyxel)  
+[Pymunk](http://www.pymunk.org/en/latest/)  
